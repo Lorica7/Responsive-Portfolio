@@ -1,0 +1,19 @@
+I want you to know that I tried very hard with this assignment but still had a very hard time fixing my portfolio page to make it 
+responsive.
+
+I made the mistake of adding the projects to GitHub after I had spent considerable time working on my local files, so the upload date 
+does not reflect when I started this project.
+
+For the portfolio in the small size I was able to get the pictures to align in a column and to hide the ones I didn't want
+but no matter what I tried, grid, flexbox, absolute positioning, I could not get the aqua-green colored divs that contained the labels
+to cooperate. They just stayed in 2 long rows, taking up a very wide space.
+
+I also could not get the photos to resize as the screen got smaller. I tried setting percentages and I tried setting pixels
+but they are stuck at the exact size of the image upload. 
+
+Another thing I played around with was putting media queries at the bottom in differnt orders and creating ranges for the screen
+sizes. I ultimately created separate css files and attached them in the head. This didn't help my non-responsive portfolio issue
+but it did help me stay organized. 
+
+I feel very frustrated with this assignment and I wanted to do well, but I also needed to leave a little time for 
+studying Javascrip since that seems really important. 
