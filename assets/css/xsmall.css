@@ -9,19 +9,25 @@ and (max-width: 640px)
     display: block;
     margin-left: auto;
     margin-right: auto; 
-    width: 70%;
+    width: 55%;
     float: none;
     }
     
 p {
     display: block;
     clear: left;
+    padding:5%;
+    
     }
 
 main {
     display: block;
-    background-color: yellow;
+    background-color: white;
     }
+
+h1 {
+    padding-left: 5%
+}
 
 .margins {
         margin: auto;
@@ -52,7 +58,6 @@ header {
          
 #middle {
     display:none; 
-    background-color: green;
     }
 
     nav{
@@ -60,14 +65,14 @@ header {
     width: 100%;
     margin: auto; 
     order:2;
-    background-color: rebeccapurple;
+    background-color: white;
     align-items: center;
     } 
          
      ul {
     align-items: center;
     flex-direction: row;
-    background-color: red;   
+    background-color: white;   
      }
          
     li {
@@ -80,7 +85,7 @@ header {
 
     #List1 {
     text-align: right;
-    margin-left: 25%
+    margin-left: 15%
     }
 
     #List2 {
@@ -116,12 +121,14 @@ header {
     object-fit: scale-down;
     margin: auto;
     align-self: center;
+    margin-top:8%;
 }
 
 #Music{
    object-fit: scale-down;
     margin: auto;
     align-self: center;
+    margin-top: 8%;
 
 }  
 #WALL-E {
@@ -136,9 +143,9 @@ header {
     display:none;
     align-self: center;
 }
+/*
 .banner1 {
-   display: flex;
-    flex-direction:column;
+
     background-color: #4aaaa5;
     align-content: center;
     align-self: center;
@@ -150,7 +157,7 @@ header {
 }
 
 .banner2 {
-    display:flex;
+   display:flex;
     flex-direction: column;
     align-content: center;
     align-self: center;
@@ -163,8 +170,8 @@ header {
 }
 
 .banner3 {
-      display:flex;
-    flex-direction: column;
+    display:flex;
+    flex-direction: column; 
     align-content: center;
     align-self: center;
     background-color: #4aaaa5;
@@ -173,7 +180,8 @@ header {
     line-height: 40px;
     height: 10%;
    max-width: 70%
-}
+} */
+
 .banner4 {
     display:none;
 }
